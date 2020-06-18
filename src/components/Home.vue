@@ -39,7 +39,7 @@
                <p class="desc-about">
                   <span class="d-inline-block mb-2">Tasik Produktif adalah sebuah website tempat mengumpulkan data komunitas, cafe, working space dan lainnya yang ada di Kota Tasikmalaya, dengan tujuan menjadikan Kota Tasikmalaya sebagai Kota Produktif dimulai dari hal Terkecil.</span><br/>
                   <span class="d-inline-block mb-2">Kamu bias mendaftarkan komunitas positif kamu di Tasik Produktif <a href="https://forms.gle/LzBGDawZvYD9VzjLA" target="_blank">lewat sini</a> agar banyak orang yang bergabung dan melakukan hal baik di komunitas kamu.</span><br/>
-                  <span class="d-inline-block mb-2">Tasik Produktif dibuat oleh <a href="https://www.instagram.com/fikriwado_" target="_blank">Moch Fikri Khoirurrizal</a> dengan ide mengikuti ide dari Kota Makasar yaitu <a href="https://littlemakassar.com/" target="_blank">Little Makassar</a> yang dibuat oleh <a href="https://hilman.space/" target="_blank">Hilman Ramadhan</a>.</span><br>
+                  <span class="d-inline-block mb-2">Tasik Produktif dibuat oleh <a href="https://www.instagram.com/fikriwado_" target="_blank">Moch Fikri Khoirurrizal</a> dengan ide mengikuti ide dari Kota Makassar yaitu <a href="https://littlemakassar.com/" target="_blank">Little Makassar</a> yang dibuat oleh <a href="https://hilman.space/" target="_blank">Hilman Ramadhan</a>.</span><br>
                   <span>Jika kamu suka dengan website informasi ini, silahkan share kepada yang lain. <a href="http://bit.ly/tasikproduktif" target="_blank">bit.ly/tasikproduktif</a></span>
                </p>
          </div>
